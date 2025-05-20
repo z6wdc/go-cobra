@@ -1,3 +1,3 @@
-# bot
+# go cobra
 
-[project layout](https://github.com/golang-standards/project-layout)
+A simple Go CLI application using [Cobra](https://github.com/spf13/cobra).
